@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
+
+.jumbotron {
+    background-color: #e9ecef;
+    margin-bottom: 40px;
+}
+
+footer {
+    background-color: #343a40;
+    color: #ffffff;
+}
